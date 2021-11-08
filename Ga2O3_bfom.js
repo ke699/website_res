@@ -56,8 +56,8 @@ var trace6 = {
 };
 
 var trace7 = {
-  x: [1057, 2660, 263, 270],
-  y: [18, 25.2, 135, 120],
+  x: [1057, 2660],
+  y: [18, 25.2],
   mode: 'markers+text',
   type: 'scatter',
   name: 'Ga2O3 Vertical FETs',
