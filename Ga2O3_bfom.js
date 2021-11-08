@@ -56,12 +56,12 @@ var trace6 = {
 };
 
 var trace7 = {
-  x: [1057, 2660, 263, 270],
-  y: [18, 25.2, 135, 120],
+  x: [1057, 2660, 263],
+  y: [18, 25.2, 135],
   mode: 'markers+text',
   type: 'scatter',
   name: 'Ga2O3 Vertical FETs',
-  text: ['Cornell\' 18', 'Cornell\' 19', 'NICT\' 19', 'test'],
+  text: ['Cornell\' 18', 'Cornell\' 19', 'NICT\' 19'],
   textposition: 'bottom',
   marker: {
     size: 13,
